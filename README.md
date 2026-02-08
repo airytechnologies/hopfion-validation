@@ -19,3 +19,9 @@ Extracts and visualizes 373 fibers from the same Hopf map.
 - Preserves global fibration structure
 - Demonstrates scalability of the method
 - Confirms consistency of local topology across fibers
+
+## What this repository is (and is not)
+
+This work does not propose a new Hopf map, hopfion solution, or analytical construction.
+Instead, it provides a reproducible numerical pipeline for extracting, visualizing,
+and validating the topological linking structure implied by existing hopfion fields.
